@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on Web Development<br>I'm currently learning React js<br>I also do Competitive Programming<br>Ask me about c,c++,cp,html,css,js,react js etc.
+I'm currently working on Web Development<br>I'm currently learning React js<br>I also do Competitive Programming<br>Ask me about c,c++,cp,html,css,js,three.js,react.js etc.
 
 
 ## 🌐 Socials:
