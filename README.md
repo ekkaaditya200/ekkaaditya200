@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aditya Ekka</h1>
 <h3 align="center">A passionate MERN stack developer from India</h3>
 
-<img align="center" width="100%" src="[https://dribbble.com/shots/1712148-Coder-gif/attachments/8944905?mode=media](https://cdn.dribbble.com/users/235897/screenshots/1712148/media/cca3cbb1f2d28014bae41a453872e66a.gif)" alt="coding">
+<img align="center" width="100%" src="https://cdn.dribbble.com/users/235897/screenshots/1712148/media/cca3cbb1f2d28014bae41a453872e66a.gif" alt="coding">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ekkaaditya200&label=Profile%20views&color=0e75b6&style=flat" alt="ekkaaditya200" /> </p>
 
