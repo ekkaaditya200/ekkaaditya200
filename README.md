@@ -1,3 +1,4 @@
+![logo](https://github.com/ekkaaditya200/ekkaaditya200/blob/main/github-header-image.png)
 <h1 align="center">Hi 👋, I'm Aditya Ekka</h1>
 <h3 align="center">A passionate MERN stack developer from India</h3>
 
