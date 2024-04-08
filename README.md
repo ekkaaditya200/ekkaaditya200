@@ -12,17 +12,17 @@
 
 - I have created Ecommerce Nike Shoe Store using MERN stack [Nike-Store](https://iridescent-babka-0851b7.netlify.app/)
 
-- 🌱 I’m currently learning **Typescript**
-
 - I have created Real Estate Listing Website using MERN stack [Real-Estate](https://soft-bombolone-97539f.netlify.app/)
+
+- 🌱 I’m currently learning **Typescript**
 
 - 🌐 Portfolio [https://portfolio-ochre-ten-97.vercel.app/](https://portfolio-ochre-ten-97.vercel.app/)
 
 - 💬 Ask me about **MERN Stack, GSAP, Framer Motion, Tailwind CSS, Material UI, Figma, HTML, CSS, C, C++, JavaScript, TypeScript, Data Structure and Algorithm**
 
-- 📫 How to reach me **adityaekka2003@gmail.com**
+- 📫 Reach me **adityaekka2003@gmail.com**
 
-- ⚡Fun fact **I think I am funny 😜**
+- ⚡ Fun fact **I think I am funny 😜**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
